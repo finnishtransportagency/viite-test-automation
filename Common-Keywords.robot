@@ -7,7 +7,7 @@ Library  Browser
 *** Variables ***
 ${LOGIN_URL}    https://testiextranet.vayla.fi/viite/
 ${BROWSER}      chromium
-${HEADLESS}     False
+${HEADLESS}     True
 ${Sulje_btn}    css=.btn.btn-secondary.close
 
 
